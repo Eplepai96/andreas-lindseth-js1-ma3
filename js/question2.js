@@ -1,9 +1,5 @@
-// Question 1
-let getRemainder = (a,b) => a % b;
-
-
-
 // Question 2
+
 // Unsure if placing onLoad() in the finally statement is semantically correct
 // I tried to set a short timeout on the API call, to make the loader more visible, but couldn't figure out how
 // I hope that what I have done is correct, and appreciate some feedback if it isn't 
